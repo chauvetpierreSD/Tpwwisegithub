@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>D:\CHAUVET Pierre\SD\Unity\Tpwwisegithub\Tpwwisegithub_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\CHAUVET Pierre\SD\Unity\Tpwwisegithub\Tpwwisegithub_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>D:\CHAUVET Pierre\SD\Unity\Tpwwisegithub\Tpwwisegithub_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\CHAUVET Pierre\SD\Unity\Tpwwisegithub\Tpwwisegithub_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="4072029455" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\New_SoundBank</ObjectPath>
+			<ShortName>New_SoundBank</ShortName>
+			<Path>New_SoundBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3050945240" Name="New_Event" ObjectPath="\Events\Default Work Unit\New_Event"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="404733900" Language="SFX">
+					<ShortName>FOL_Footstep_Wood_01.wav</ShortName>
+					<Path>SFX\FOL_Footstep_Wood_01_56D34C19.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

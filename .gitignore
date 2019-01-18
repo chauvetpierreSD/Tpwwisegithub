@@ -35,3 +35,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#Wwise Cache data
+Tpwwisegithub_WwiseProject/.cache/
+Tpwwisegithub_WwiseProject/*.wsettings
+Tpwwisegithub_WwiseProject/*.validationcache
+Tpwwisegithub_WwiseProject/*.akd
+Tpwwisegithub_WwiseProject/*prof
+Assets/Wwise

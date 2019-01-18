@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3050945240	New_Event			\Default Work Unit\New_Event	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	404733900	FOL_Footstep_Wood_01	D:\CHAUVET Pierre\SD\Unity\Tpwwisegithub\Tpwwisegithub_WwiseProject\.cache\Mac\SFX\FOL_Footstep_Wood_01_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\FOL_Footstep_Wood_01		54384
+

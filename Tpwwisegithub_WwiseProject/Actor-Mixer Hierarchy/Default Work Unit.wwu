@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C5AECE12-2708-43E9-9634-78DF4ED62467}" SchemaVersion="89">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{C5AECE12-2708-43E9-9634-78DF4ED62467}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="FOL_Footstep_Wood_01" ID="{4B1EB730-8563-43C7-AF5A-A2980C570554}" ShortID="949080890">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{F6162370-14AA-4AAB-95AE-32E3C6A47F5D}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{3E231154-A0AF-41AD-A880-3A83204AABE7}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="FOL_Footstep_Wood_01" ID="{169CA579-45CD-4B42-AFD5-EC6106991643}" ShortID="404733900">
+							<Language>SFX</Language>
+							<AudioFile>FOL_Footstep_Wood_01.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="FOL_Footstep_Wood_01" ID="{169CA579-45CD-4B42-AFD5-EC6106991643}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
